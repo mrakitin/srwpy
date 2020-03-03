@@ -1,0 +1,3 @@
+[submodule "SRW"]
+	path = SRW
+	url = https://github.com/ochubar/SRW
